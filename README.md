@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kalashjain54@gmail.com**
 
-- 📄 Know about my experiences **[My resume](https://drive.google.com/file/d/1qp11kHft0dFTXx4_MbGPxIyN7ku4ScnK/view?usp=drive_link)**
+- 📄 Know about my experiences **[My resume](https://drive.google.com/file/d/1h2EziBzRTSMdABzwdXjebtOPPyRS2RLk/view?usp=sharing)**
 
 
 
