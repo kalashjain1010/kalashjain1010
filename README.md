@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working as **Full Stack Developer @Pazy**
 
-- 🌱 I’m currently learning **Next.js,mangoDB, NodeJS and DSA**
+- 🌱 I’m currently learning **Nuxt.js, Next.js, MangoDB, NodeJS and DSA**
 
-- 💬 Ask me about **React,nextjs,nodejs,firebase,java,dsa,etc..**
+- 💬 Ask me about **Nuxt.js, React, Nextjs, Nodejs, Firebase, Java, etc..**
 
 - 📫 How to reach me **kalashjain54@gmail.com**
 
