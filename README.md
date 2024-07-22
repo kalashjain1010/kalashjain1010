@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/kalash__jain_" target="blank"><img src="https://img.shields.io/twitter/follow/kalash__jain_?logo=twitter&style=for-the-badge" alt="kalash__jain_" /></a> </p>
 
-- 🔭 I’m currently working as **Full Stack Developer @Continuo**
+- 🔭 I’m currently working as **Full Stack Developer @Pazy**
 
 - 🌱 I’m currently learning **Next.js,mangoDB, NodeJS and DSA**
 
