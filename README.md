@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalash Jain</h1>
-<h3 align="center">A passionate Full Stack Web and Java developer</h3>
+<h3 align="center">A passionate Full Stack Web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59527753/96024346-39dfe580-0e71-11eb-8a8a-cbaf92f7659e.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalashjain1010&label=Profile%20views&color=0e75b6&style=flat" alt="kalashjain1010" /> </p>
